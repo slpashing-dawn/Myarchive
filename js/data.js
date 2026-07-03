@@ -129,77 +129,27 @@ const FICS_CURATED = [
 
 const TRPG_CURATED = [
   {
-    title: "항구도시의 실종자들",
-    category: "크툴루",
-    rating: 5,
-    playerCount: "3~4인",
-    playtime: "3~4시간",
-    completed: true,
-    spoiler: "known",
-    tags: ["원샷", "공포", "초보자용"],
-    link: "https://example.com/trpg/1",
-    memo: "GM으로 두 번 돌렸음. 입문용으로 최고. 분위기 잡는 게 관건."
-  },
-  {
-    title: "붉은 저택의 초대장",
-    category: "인세인",
-    rating: 4,
-    playerCount: "4~5인",
-    playtime: "4시간 이상",
-    completed: true,
-    spoiler: "known",
-    tags: ["캠페인", "미스터리", "눈물주의"],
-    link: "https://example.com/trpg/2",
-    memo: "엔딩 파트에서 다들 울었음. 롤플레이 비중 높음."
-  },
-  {
-    title: "폐교의 시간표",
-    category: "던전앤드래곤",
-    rating: 3,
-    playerCount: "4인",
-    playtime: "세션당 3시간",
-    completed: true,
-    spoiler: "blind",
-    tags: ["캠페인", "고난이도"],
-    link: "https://example.com/trpg/3",
-    memo: "플레이어로 참여 예정. 아직 내용 모르는 채로 대기."
-  },
-  {
-    title: "마지막 손님",
-    category: "기타 시스템",
-    rating: 5,
-    playerCount: "4인",
-    playtime: "1시간 내외",
-    completed: true,
-    spoiler: "known",
-    tags: ["원샷", "코미디", "4인용"],
-    link: "https://example.com/trpg/4",
-    memo: "짧은데 임팩트 있음. 뒤풀이 술자리에서도 이 얘기함."
-  },
-  {
-    title: "안개 속의 등대지기",
-    category: "크툴루",
-    rating: 4,
-    playerCount: "2인",
-    playtime: "2시간 내외",
-    completed: true,
-    spoiler: "known",
-    tags: ["원샷", "공포", "2인용"],
-    link: "https://example.com/trpg/5",
-    memo: "2인 플레이 전용치곤 밀도 높음. 다시 돌리고 싶음."
-  },
-  {
-    title: "백야의 초대",
-    category: "이문영 시나리오",
+    title: "100시간 연대기",
+    category: "CoC 7th",
     rating: 0,
-    playerCount: "3~5인",
-    playtime: "미상",
-    completed: false,
+    playerCount: "타이만",
+    playtime: "",
+    completed: true,
     spoiler: "blind",
-    tags: ["위시리스트", "미스터리"],
-    link: "https://example.com/trpg/6",
-    memo: "평이 좋아서 담아둠. 인원 모이면 바로 구매 예정."
+    tags: ["타이만", "소관타"],
+    link: "",
+    memo: "낙원 구출 작전, 캘백시, 너백시"
+  },
+  {
+    title: "이름하야 마왕과 용사가 세상을 구하는 일대기",
+    category: "CoC 7th",
+    rating: 0,
+    playerCount: "타이만",
+    playtime: "",
+    completed: true,
+    spoiler: "known",
+    tags: ["타이만", "코미디", "판타지"],
+    link: "",
+    memo: "팀33 - 마용구 1, 2, 3"
   }
-
-  // ↓ 이 아래에 계속 { ... }, 로 추가하시면 됩니다.
 ];
